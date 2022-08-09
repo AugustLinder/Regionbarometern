@@ -1,0 +1,1452 @@
+[
+ {
+   "name": "Ale kommun",
+   "numCrimes": 2717,
+   "crimesRelative": 8555
+ },
+ {
+   "name": "Alingsås kommun",
+   "numCrimes": 4120,
+   "crimesRelative": 9896
+ },
+ {
+   "name": "Alvesta kommun",
+   "numCrimes": 1486,
+   "crimesRelative": 7350
+ },
+ {
+   "name": "Aneby kommun",
+   "numCrimes": 399,
+   "crimesRelative": 5871
+ },
+ {
+   "name": "Arboga kommun",
+   "numCrimes": 1146,
+   "crimesRelative": 8178
+ },
+ {
+   "name": "Arjeplogs kommun",
+   "numCrimes": 189,
+   "crimesRelative": 6969
+ },
+ {
+   "name": "Arvidsjaurs kommun",
+   "numCrimes": 395,
+   "crimesRelative": 6418
+ },
+ {
+   "name": "Arvika kommun",
+   "numCrimes": 2201,
+   "crimesRelative": 8488
+ },
+ {
+   "name": "Askersunds kommun",
+   "numCrimes": 856,
+   "crimesRelative": 7488
+ },
+ {
+   "name": "Avesta kommun",
+   "numCrimes": 2421,
+   "crimesRelative": 10481
+ },
+ {
+   "name": "Bengtsfors kommun",
+   "numCrimes": 1033,
+   "crimesRelative": 10755
+ },
+ {
+   "name": "Bergs kommun",
+   "numCrimes": 480,
+   "crimesRelative": 6748
+ },
+ {
+   "name": "Bjurholms kommun",
+   "numCrimes": 188,
+   "crimesRelative": 7886
+ },
+ {
+   "name": "Bjuvs kommun",
+   "numCrimes": 1711,
+   "crimesRelative": 10911
+ },
+ {
+   "name": "Bodens kommun",
+   "numCrimes": 2722,
+   "crimesRelative": 9693
+ },
+ {
+   "name": "Bollebygds kommun",
+   "numCrimes": 666,
+   "crimesRelative": 7008
+ },
+ {
+   "name": "Bollnäs kommun",
+   "numCrimes": 2728,
+   "crimesRelative": 10175
+ },
+ {
+   "name": "Borgholms kommun",
+   "numCrimes": 863,
+   "crimesRelative": 7966
+ },
+ {
+   "name": "Borlänge kommun",
+   "numCrimes": 6113,
+   "crimesRelative": 11657
+ },
+ {
+   "name": "Borås kommun",
+   "numCrimes": 13539,
+   "crimesRelative": 11908
+ },
+ {
+   "name": "Botkyrka kommun",
+   "numCrimes": 12742,
+   "crimesRelative": 13435
+ },
+ {
+   "name": "Boxholms kommun",
+   "numCrimes": 264,
+   "crimesRelative": 4850
+ },
+ {
+   "name": "Bromölla kommun",
+   "numCrimes": 1301,
+   "crimesRelative": 10194
+ },
+ {
+   "name": "Bräcke kommun",
+   "numCrimes": 452,
+   "crimesRelative": 7282
+ },
+ {
+   "name": "Burlövs kommun",
+   "numCrimes": 2410,
+   "crimesRelative": 12545
+ },
+ {
+   "name": "Båstads kommun",
+   "numCrimes": 1144,
+   "crimesRelative": 7440
+ },
+ {
+   "name": "Dals-Eds kommun",
+   "numCrimes": 355,
+   "crimesRelative": 7427
+ },
+ {
+   "name": "Danderyds kommun",
+   "numCrimes": 4074,
+   "crimesRelative": 12467
+ },
+ {
+   "name": "Degerfors kommun",
+   "numCrimes": 996,
+   "crimesRelative": 10339
+ },
+ {
+   "name": "Dorotea kommun",
+   "numCrimes": 216,
+   "crimesRelative": 8623
+ },
+ {
+   "name": "Eda kommun",
+   "numCrimes": 803,
+   "crimesRelative": 9395
+ },
+ {
+   "name": "Ekerö kommun",
+   "numCrimes": 2041,
+   "crimesRelative": 7072
+ },
+ {
+   "name": "Eksjö kommun",
+   "numCrimes": 1880,
+   "crimesRelative": 10565
+ },
+ {
+   "name": "Emmaboda kommun",
+   "numCrimes": 945,
+   "crimesRelative": 10072
+ },
+ {
+   "name": "Enköpings kommun",
+   "numCrimes": 5254,
+   "crimesRelative": 11378
+ },
+ {
+   "name": "Eskilstuna kommun",
+   "numCrimes": 15446,
+   "crimesRelative": 14427
+ },
+ {
+   "name": "Eslövs kommun",
+   "numCrimes": 3270,
+   "crimesRelative": 9593
+ },
+ {
+   "name": "Essunga kommun",
+   "numCrimes": 491,
+   "crimesRelative": 8643
+ },
+ {
+   "name": "Fagersta kommun",
+   "numCrimes": 1439,
+   "crimesRelative": 10831
+ },
+ {
+   "name": "Falkenbergs kommun",
+   "numCrimes": 4444,
+   "crimesRelative": 9660
+ },
+ {
+   "name": "Falköpings kommun",
+   "numCrimes": 3463,
+   "crimesRelative": 10403
+ },
+ {
+   "name": "Falun kommun",
+   "numCrimes": 4626,
+   "crimesRelative": 7770
+ },
+ {
+   "name": "Filipstads kommun",
+   "numCrimes": 1074,
+   "crimesRelative": 10194
+ },
+ {
+   "name": "Finspångs kommun",
+   "numCrimes": 1489,
+   "crimesRelative": 6832
+ },
+ {
+   "name": "Flens kommun",
+   "numCrimes": 1648,
+   "crimesRelative": 10007
+ },
+ {
+   "name": "Forshaga kommun",
+   "numCrimes": 707,
+   "crimesRelative": 6152
+ },
+ {
+   "name": "Färgelanda kommun",
+   "numCrimes": 587,
+   "crimesRelative": 8798
+ },
+ {
+   "name": "Gagnefs kommun",
+   "numCrimes": 465,
+   "crimesRelative": 4481
+ },
+ {
+   "name": "Gislaveds kommun",
+   "numCrimes": 2178,
+   "crimesRelative": 7347
+ },
+ {
+   "name": "Gnesta kommun",
+   "numCrimes": 941,
+   "crimesRelative": 8270
+ },
+ {
+   "name": "Gnosjö kommun",
+   "numCrimes": 689,
+   "crimesRelative": 7170
+ },
+ {
+   "name": "Gotlands kommun",
+   "numCrimes": 5415,
+   "crimesRelative": 9017
+ },
+ {
+   "name": "Grums kommun",
+   "numCrimes": 726,
+   "crimesRelative": 8041
+ },
+ {
+   "name": "Grästorps kommun",
+   "numCrimes": 431,
+   "crimesRelative": 7551
+ },
+ {
+   "name": "Gullspångs kommun",
+   "numCrimes": 688,
+   "crimesRelative": 13221
+ },
+ {
+   "name": "Gällivare kommun",
+   "numCrimes": 1458,
+   "crimesRelative": 8345
+ },
+ {
+   "name": "Gävle kommun",
+   "numCrimes": 12781,
+   "crimesRelative": 12430
+ },
+ {
+   "name": "Göteborgs kommun",
+   "numCrimes": 89103,
+   "crimesRelative": 15280
+ },
+ {
+   "name": "Götene kommun",
+   "numCrimes": 1140,
+   "crimesRelative": 8644
+ },
+ {
+   "name": "Habo kommun",
+   "numCrimes": 460,
+   "crimesRelative": 3657
+ },
+ {
+   "name": "Hagfors kommun",
+   "numCrimes": 978,
+   "crimesRelative": 8491
+ },
+ {
+   "name": "Hallsbergs kommun",
+   "numCrimes": 1696,
+   "crimesRelative": 10599
+ },
+ {
+   "name": "Hallstahammars kommun",
+   "numCrimes": 1591,
+   "crimesRelative": 9696
+ },
+ {
+   "name": "Halmstads kommun",
+   "numCrimes": 12756,
+   "crimesRelative": 12304
+ },
+ {
+   "name": "Hammarö kommun",
+   "numCrimes": 730,
+   "crimesRelative": 4380
+ },
+ {
+   "name": "Haninge kommun",
+   "numCrimes": 11755,
+   "crimesRelative": 12590
+ },
+ {
+   "name": "Haparanda kommun",
+   "numCrimes": 1045,
+   "crimesRelative": 10891
+ },
+ {
+   "name": "Heby kommun",
+   "numCrimes": 1027,
+   "crimesRelative": 7311
+ },
+ {
+   "name": "Hedemora kommun",
+   "numCrimes": 1255,
+   "crimesRelative": 8137
+ },
+ {
+   "name": "Helsingborgs kommun",
+   "numCrimes": 21649,
+   "crimesRelative": 14501
+ },
+ {
+   "name": "Herrljunga kommun",
+   "numCrimes": 750,
+   "crimesRelative": 7934
+ },
+ {
+   "name": "Hjo kommun",
+   "numCrimes": 533,
+   "crimesRelative": 5765
+ },
+ {
+   "name": "Hofors kommun",
+   "numCrimes": 731,
+   "crimesRelative": 7641
+ },
+ {
+   "name": "Huddinge kommun",
+   "numCrimes": 14459,
+   "crimesRelative": 12789
+ },
+ {
+   "name": "Hudiksvalls kommun",
+   "numCrimes": 3245,
+   "crimesRelative": 8629
+ },
+ {
+   "name": "Hultsfreds kommun",
+   "numCrimes": 1457,
+   "crimesRelative": 10287
+ },
+ {
+   "name": "Hylte kommun",
+   "numCrimes": 1248,
+   "crimesRelative": 11690
+ },
+ {
+   "name": "Håbo kommun",
+   "numCrimes": 2039,
+   "crimesRelative": 9284
+ },
+ {
+   "name": "Hällefors kommun",
+   "numCrimes": 688,
+   "crimesRelative": 9997
+ },
+ {
+   "name": "Härjedalens kommun",
+   "numCrimes": 846,
+   "crimesRelative": 8422
+ },
+ {
+   "name": "Härnösands kommun",
+   "numCrimes": 3408,
+   "crimesRelative": 13572
+ },
+ {
+   "name": "Härryda kommun",
+   "numCrimes": 3578,
+   "crimesRelative": 9374
+ },
+ {
+   "name": "Hässleholms kommun",
+   "numCrimes": 5303,
+   "crimesRelative": 10181
+ },
+ {
+   "name": "Höganäs kommun",
+   "numCrimes": 1896,
+   "crimesRelative": 6996
+ },
+ {
+   "name": "Högsby kommun",
+   "numCrimes": 699,
+   "crimesRelative": 12123
+ },
+ {
+   "name": "Hörby kommun",
+   "numCrimes": 1457,
+   "crimesRelative": 9278
+ },
+ {
+   "name": "Höörs kommun",
+   "numCrimes": 1519,
+   "crimesRelative": 9057
+ },
+ {
+   "name": "Jokkmokks kommun",
+   "numCrimes": 449,
+   "crimesRelative": 9246
+ },
+ {
+   "name": "Järfälla kommun",
+   "numCrimes": 9594,
+   "crimesRelative": 11839
+ },
+ {
+   "name": "Jönköpings kommun",
+   "numCrimes": 12255,
+   "crimesRelative": 8602
+ },
+ {
+   "name": "Kalix kommun",
+   "numCrimes": 1595,
+   "crimesRelative": 10101
+ },
+ {
+   "name": "Kalmar kommun",
+   "numCrimes": 8842,
+   "crimesRelative": 12566
+ },
+ {
+   "name": "Karlsborgs kommun",
+   "numCrimes": 341,
+   "crimesRelative": 4879
+ },
+ {
+   "name": "Karlshamns kommun",
+   "numCrimes": 3154,
+   "crimesRelative": 9725
+ },
+ {
+   "name": "Karlskoga kommun",
+   "numCrimes": 3743,
+   "crimesRelative": 12367
+ },
+ {
+   "name": "Karlskrona kommun",
+   "numCrimes": 5109,
+   "crimesRelative": 7671
+ },
+ {
+   "name": "Karlstads kommun",
+   "numCrimes": 9344,
+   "crimesRelative": 9854
+ },
+ {
+   "name": "Katrineholms kommun",
+   "numCrimes": 3678,
+   "crimesRelative": 10570
+ },
+ {
+   "name": "Kils kommun",
+   "numCrimes": 783,
+   "crimesRelative": 6477
+ },
+ {
+   "name": "Kinda kommun",
+   "numCrimes": 632,
+   "crimesRelative": 6321
+ },
+ {
+   "name": "Kiruna kommun",
+   "numCrimes": 1796,
+   "crimesRelative": 7924
+ },
+ {
+   "name": "Klippans kommun",
+   "numCrimes": 2019,
+   "crimesRelative": 11409
+ },
+ {
+   "name": "Knivsta kommun",
+   "numCrimes": 1408,
+   "crimesRelative": 7383
+ },
+ {
+   "name": "Kramfors kommun",
+   "numCrimes": 2185,
+   "crimesRelative": 12064
+ },
+ {
+   "name": "Kristianstads kommun",
+   "numCrimes": 10030,
+   "crimesRelative": 11631
+ },
+ {
+   "name": "Kristinehamns kommun",
+   "numCrimes": 2519,
+   "crimesRelative": 10400
+ },
+ {
+   "name": "Krokoms kommun",
+   "numCrimes": 1031,
+   "crimesRelative": 6861
+ },
+ {
+   "name": "Kumla kommun",
+   "numCrimes": 2560,
+   "crimesRelative": 11721
+ },
+ {
+   "name": "Kungsbacka kommun",
+   "numCrimes": 5758,
+   "crimesRelative": 6786
+ },
+ {
+   "name": "Kungsörs kommun",
+   "numCrimes": 557,
+   "crimesRelative": 6381
+ },
+ {
+   "name": "Kungälvs kommun",
+   "numCrimes": 4202,
+   "crimesRelative": 8942
+ },
+ {
+   "name": "Kävlinge kommun",
+   "numCrimes": 2487,
+   "crimesRelative": 7756
+ },
+ {
+   "name": "Köpings kommun",
+   "numCrimes": 3014,
+   "crimesRelative": 11521
+ },
+ {
+   "name": "Laholms kommun",
+   "numCrimes": 2350,
+   "crimesRelative": 9052
+ },
+ {
+   "name": "Landskrona kommun",
+   "numCrimes": 5442,
+   "crimesRelative": 11749
+ },
+ {
+   "name": "Laxå kommun",
+   "numCrimes": 547,
+   "crimesRelative": 9676
+ },
+ {
+   "name": "Lekebergs kommun",
+   "numCrimes": 490,
+   "crimesRelative": 5802
+ },
+ {
+   "name": "Leksands kommun",
+   "numCrimes": 758,
+   "crimesRelative": 4803
+ },
+ {
+   "name": "Lerums kommun",
+   "numCrimes": 3330,
+   "crimesRelative": 7759
+ },
+ {
+   "name": "Lessebo kommun",
+   "numCrimes": 894,
+   "crimesRelative": 10336
+ },
+ {
+   "name": "Lidingö kommun",
+   "numCrimes": 4110,
+   "crimesRelative": 8559
+ },
+ {
+   "name": "Lidköpings kommun",
+   "numCrimes": 3762,
+   "crimesRelative": 9325
+ },
+ {
+   "name": "Lilla Edets kommun",
+   "numCrimes": 1341,
+   "crimesRelative": 9419
+ },
+ {
+   "name": "Lindesbergs kommun",
+   "numCrimes": 1885,
+   "crimesRelative": 7970
+ },
+ {
+   "name": "Linköpings kommun",
+   "numCrimes": 15905,
+   "crimesRelative": 9654
+ },
+ {
+   "name": "Ljungby kommun",
+   "numCrimes": 2410,
+   "crimesRelative": 8477
+ },
+ {
+   "name": "Ljusdals kommun",
+   "numCrimes": 1442,
+   "crimesRelative": 7636
+ },
+ {
+   "name": "Ljusnarsbergs kommun",
+   "numCrimes": 784,
+   "crimesRelative": 16720
+ },
+ {
+   "name": "Lomma kommun",
+   "numCrimes": 1402,
+   "crimesRelative": 5628
+ },
+ {
+   "name": "Ludvika kommun",
+   "numCrimes": 2494,
+   "crimesRelative": 9353
+ },
+ {
+   "name": "Luleå kommun",
+   "numCrimes": 9211,
+   "crimesRelative": 11718
+ },
+ {
+   "name": "Lunds kommun",
+   "numCrimes": 11441,
+   "crimesRelative": 9077
+ },
+ {
+   "name": "Lycksele kommun",
+   "numCrimes": 1359,
+   "crimesRelative": 11025
+ },
+ {
+   "name": "Lysekils kommun",
+   "numCrimes": 1312,
+   "crimesRelative": 9107
+ },
+ {
+   "name": "Malmö kommun",
+   "numCrimes": 51490,
+   "crimesRelative": 14807
+ },
+ {
+   "name": "Malung–Sälens kommun",
+   "numCrimes": 763,
+   "crimesRelative": 7545
+ },
+ {
+   "name": "Malå kommun",
+   "numCrimes": 205,
+   "crimesRelative": 6775
+ },
+ {
+   "name": "Mariestads kommun",
+   "numCrimes": 2720,
+   "crimesRelative": 11088
+ },
+ {
+   "name": "Markaryds kommun",
+   "numCrimes": 2978,
+   "crimesRelative": 8528
+ },
+ {
+   "name": "Marks kommun",
+   "numCrimes": 1347,
+   "crimesRelative": 12996
+ },
+ {
+   "name": "Melleruds kommun",
+   "numCrimes": 1021,
+   "crimesRelative": 10986
+ },
+ {
+   "name": "Mjölby kommun",
+   "numCrimes": 2617,
+   "crimesRelative": 9384
+ },
+ {
+   "name": "Mora kommun",
+   "numCrimes": 1945,
+   "crimesRelative": 9492
+ },
+ {
+   "name": "Motala kommun",
+   "numCrimes": 4463,
+   "crimesRelative": 10228
+ },
+ {
+   "name": "Mullsjö kommun",
+   "numCrimes": 601,
+   "crimesRelative": 8171
+ },
+ {
+   "name": "Munkedals kommun",
+   "numCrimes": 1067,
+   "crimesRelative": 10104
+ },
+ {
+   "name": "Munkfors kommun",
+   "numCrimes": 205,
+   "crimesRelative": 5509
+ },
+ {
+   "name": "Mölndals kommun",
+   "numCrimes": 6310,
+   "crimesRelative": 9017
+ },
+ {
+   "name": "Mönsterås kommun",
+   "numCrimes": 1227,
+   "crimesRelative": 9217
+ },
+ {
+   "name": "Mörbylånga kommun",
+   "numCrimes": 815,
+   "crimesRelative": 5282
+ },
+ {
+   "name": "Nacka kommun",
+   "numCrimes": 10207,
+   "crimesRelative": 9614
+ },
+ {
+   "name": "Nora kommun",
+   "numCrimes": 721,
+   "crimesRelative": 6736
+ },
+ {
+   "name": "Norbergs kommun",
+   "numCrimes": 633,
+   "crimesRelative": 11057
+ },
+ {
+   "name": "Nordanstigs kommun",
+   "numCrimes": 863,
+   "crimesRelative": 9095
+ },
+ {
+   "name": "Nordmalings kommun",
+   "numCrimes": 588,
+   "crimesRelative": 8283
+ },
+ {
+   "name": "Norrköpings kommun",
+   "numCrimes": 16257,
+   "crimesRelative": 11329
+ },
+ {
+   "name": "Norrtälje kommun",
+   "numCrimes": 6969,
+   "crimesRelative": 10969
+ },
+ {
+   "name": "Norsjö kommun",
+   "numCrimes": 260,
+   "crimesRelative": 6589
+ },
+ {
+   "name": "Nybro kommun",
+   "numCrimes": 2024,
+   "crimesRelative": 9991
+ },
+ {
+   "name": "Nykvarns kommun",
+   "numCrimes": 831,
+   "crimesRelative": 7408
+ },
+ {
+   "name": "Nyköpings kommun",
+   "numCrimes": 7156,
+   "crimesRelative": 12534
+ },
+ {
+   "name": "Nynäshamns kommun",
+   "numCrimes": 4183,
+   "crimesRelative": 14532
+ },
+ {
+   "name": "Nässjö kommun",
+   "numCrimes": 3415,
+   "crimesRelative": 10823
+ },
+ {
+   "name": "Ockelbo kommun",
+   "numCrimes": 571,
+   "crimesRelative": 9709
+ },
+ {
+   "name": "Olofströms kommun",
+   "numCrimes": 1235,
+   "crimesRelative": 9256
+ },
+ {
+   "name": "Orsa kommun",
+   "numCrimes": 493,
+   "crimesRelative": 7147
+ },
+ {
+   "name": "Orusts kommun",
+   "numCrimes": 1047,
+   "crimesRelative": 6863
+ },
+ {
+   "name": "Osby kommun",
+   "numCrimes": 1132,
+   "crimesRelative": 8575
+ },
+ {
+   "name": "Oskarshamns kommun",
+   "numCrimes": 2313,
+   "crimesRelative": 8528
+ },
+ {
+   "name": "Ovanåkers kommun",
+   "numCrimes": 751,
+   "crimesRelative": 6431
+ },
+ {
+   "name": "Oxelösunds kommun",
+   "numCrimes": 1140,
+   "crimesRelative": 9511
+ },
+ {
+   "name": "Pajala kommun",
+   "numCrimes": 462,
+   "crimesRelative": 7734
+ },
+ {
+   "name": "Partille kommun",
+   "numCrimes": 3869,
+   "crimesRelative": 9795
+ },
+ {
+   "name": "Perstorps kommun",
+   "numCrimes": 881,
+   "crimesRelative": 11770
+ },
+ {
+   "name": "Piteå kommun",
+   "numCrimes": 2938,
+   "crimesRelative": 6964
+ },
+ {
+   "name": "Ragunda kommun",
+   "numCrimes": 326,
+   "crimesRelative": 6258
+ },
+ {
+   "name": "Robertsfors kommun",
+   "numCrimes": 388,
+   "crimesRelative": 5740
+ },
+ {
+   "name": "Ronneby kommun",
+   "numCrimes": 2449,
+   "crimesRelative": 8324
+ },
+ {
+   "name": "Rättviks kommun",
+   "numCrimes": 760,
+   "crimesRelative": 6892
+ },
+ {
+   "name": "Sala kommun",
+   "numCrimes": 2705,
+   "crimesRelative": 11833
+ },
+ {
+   "name": "Salems kommun",
+   "numCrimes": 1600,
+   "crimesRelative": 9479
+ },
+ {
+   "name": "Sandvikens kommun",
+   "numCrimes": 3966,
+   "crimesRelative": 10089
+ },
+ {
+   "name": "Sigtuna kommun",
+   "numCrimes": 6879,
+   "crimesRelative": 13933
+ },
+ {
+   "name": "Simrishamns kommun",
+   "numCrimes": 1479,
+   "crimesRelative": 7692
+ },
+ {
+   "name": "Sjöbo kommun",
+   "numCrimes": 1589,
+   "crimesRelative": 8193
+ },
+ {
+   "name": "Skara kommun",
+   "numCrimes": 2118,
+   "crimesRelative": 11311
+ },
+ {
+   "name": "Skellefteå kommun",
+   "numCrimes": 6301,
+   "crimesRelative": 8650
+ },
+ {
+   "name": "Skinnskattebergs kommun",
+   "numCrimes": 444,
+   "crimesRelative": 10153
+ },
+ {
+   "name": "Skurups kommun",
+   "numCrimes": 1494,
+   "crimesRelative": 9320
+ },
+ {
+   "name": "Skövde kommun",
+   "numCrimes": 5721,
+   "crimesRelative": 10072
+ },
+ {
+   "name": "Smedjebackens kommun",
+   "numCrimes": 684,
+   "crimesRelative": 6309
+ },
+ {
+   "name": "Sollefteå kommun",
+   "numCrimes": 1930,
+   "crimesRelative": 10212
+ },
+ {
+   "name": "Sollentuna kommun",
+   "numCrimes": 8561,
+   "crimesRelative": 11577
+ },
+ {
+   "name": "Solna kommun",
+   "numCrimes": 11971,
+   "crimesRelative": 14372
+ },
+ {
+   "name": "Sorsele kommun",
+   "numCrimes": 154,
+   "crimesRelative": 6301
+ },
+ {
+   "name": "Sotenäs kommun",
+   "numCrimes": 841,
+   "crimesRelative": 9208
+ },
+ {
+   "name": "Staffanstorps kommun",
+   "numCrimes": 1853,
+   "crimesRelative": 7165
+ },
+ {
+   "name": "Stenungsunds kommun",
+   "numCrimes": 2328,
+   "crimesRelative": 8630
+ },
+ {
+   "name": "Stockholm",
+   "numCrimes": 207861,
+   "crimesRelative": 21262
+ },
+ {
+   "name": "Storfors kommun",
+   "numCrimes": 197,
+   "crimesRelative": 4916
+ },
+ {
+   "name": "Storumans kommun",
+   "numCrimes": 392,
+   "crimesRelative": 6722
+ },
+ {
+   "name": "Strängnäs kommun",
+   "numCrimes": 3595,
+   "crimesRelative": 9675
+ },
+ {
+   "name": "Strömstads kommun",
+   "numCrimes": 1204,
+   "crimesRelative": 9073
+ },
+ {
+   "name": "Strömsunds kommun",
+   "numCrimes": 961,
+   "crimesRelative": 8360
+ },
+ {
+   "name": "Sundbybergs kommun",
+   "numCrimes": 7207,
+   "crimesRelative": 13684
+ },
+ {
+   "name": "Sundsvalls kommun",
+   "numCrimes": 10980,
+   "crimesRelative": 11042
+ },
+ {
+   "name": "Sunne kommun",
+   "numCrimes": 913,
+   "crimesRelative": 6855
+ },
+ {
+   "name": "Surahammars kommun",
+   "numCrimes": 785,
+   "crimesRelative": 7772
+ },
+ {
+   "name": "Svalövs kommun",
+   "numCrimes": 1252,
+   "crimesRelative": 8769
+ },
+ {
+   "name": "Svedala kommun",
+   "numCrimes": 1626,
+   "crimesRelative": 7166
+ },
+ {
+   "name": "Svenljunga kommun",
+   "numCrimes": 1035,
+   "crimesRelative": 9632
+ },
+ {
+   "name": "Säffle kommun",
+   "numCrimes": 1274,
+   "crimesRelative": 8249
+ },
+ {
+   "name": "Säters kommun",
+   "numCrimes": 617,
+   "crimesRelative": 5535
+ },
+ {
+   "name": "Sävsjö kommun",
+   "numCrimes": 773,
+   "crimesRelative": 6596
+ },
+ {
+   "name": "Söderhamns kommun",
+   "numCrimes": 2915,
+   "crimesRelative": 11395
+ },
+ {
+   "name": "Söderköpings kommun",
+   "numCrimes": 833,
+   "crimesRelative": 5700
+ },
+ {
+   "name": "Södertälje kommun",
+   "numCrimes": 15411,
+   "crimesRelative": 15410
+ },
+ {
+   "name": "Sölvesborgs kommun",
+   "numCrimes": 1646,
+   "crimesRelative": 9446
+ },
+ {
+   "name": "Tanums kommun",
+   "numCrimes": 1008,
+   "crimesRelative": 7812
+ },
+ {
+   "name": "Tibro kommun",
+   "numCrimes": 773,
+   "crimesRelative": 6867
+ },
+ {
+   "name": "Tidaholms kommun",
+   "numCrimes": 913,
+   "crimesRelative": 7114
+ },
+ {
+   "name": "Tierps kommun",
+   "numCrimes": 1932,
+   "crimesRelative": 9051
+ },
+ {
+   "name": "Timrå kommun",
+   "numCrimes": 1629,
+   "crimesRelative": 9064
+ },
+ {
+   "name": "Tingsryds kommun",
+   "numCrimes": 999,
+   "crimesRelative": 8065
+ },
+ {
+   "name": "Tjörns kommun",
+   "numCrimes": 981,
+   "crimesRelative": 6076
+ },
+ {
+   "name": "Tomelilla kommun",
+   "numCrimes": 1059,
+   "crimesRelative": 7739
+ },
+ {
+   "name": "Torsby kommun",
+   "numCrimes": 789,
+   "crimesRelative": 6834
+ },
+ {
+   "name": "Torsås kommun",
+   "numCrimes": 454,
+   "crimesRelative": 6359
+ },
+ {
+   "name": "Tranemo kommun",
+   "numCrimes": 1090,
+   "crimesRelative": 9184
+ },
+ {
+   "name": "Tranås kommun ",
+   "numCrimes": 1745,
+   "crimesRelative": 9229
+ },
+ {
+   "name": "Trelleborgs kommun",
+   "numCrimes": 3374,
+   "crimesRelative": 7358
+ },
+ {
+   "name": "Trollhättans kommun",
+   "numCrimes": 7380,
+   "crimesRelative": 12449
+ },
+ {
+   "name": "Trosa kommun",
+   "numCrimes": 1044,
+   "crimesRelative": 7333
+ },
+ {
+   "name": "Tyresö kommun",
+   "numCrimes": 4937,
+   "crimesRelative": 10161
+ },
+ {
+   "name": "Täby kommun",
+   "numCrimes": 6437,
+   "crimesRelative": 8862
+ },
+ {
+   "name": "Töreboda kommun",
+   "numCrimes": 928,
+   "crimesRelative": 10026
+ },
+ {
+   "name": "Uddevalla kommun",
+   "numCrimes": 6027,
+   "crimesRelative": 10605
+ },
+ {
+   "name": "Ulricehamns kommun",
+   "numCrimes": 1937,
+   "crimesRelative": 7844
+ },
+ {
+   "name": "Umeå kommun",
+   "numCrimes": 10819,
+   "crimesRelative": 8306
+ },
+ {
+   "name": "Upplands Väsby kommun",
+   "numCrimes": 6618,
+   "crimesRelative": 14023
+ },
+ {
+   "name": "Upplands-Bro kommun",
+   "numCrimes": 3804,
+   "crimesRelative": 12639
+ },
+ {
+   "name": "Uppsala kommun",
+   "numCrimes": 24473,
+   "crimesRelative": 10470
+ },
+ {
+   "name": "Uppvidinge kommun",
+   "numCrimes": 679,
+   "crimesRelative": 7145
+ },
+ {
+   "name": "Vadstena kommun",
+   "numCrimes": 488,
+   "crimesRelative": 6559
+ },
+ {
+   "name": "Vaggeryds kommun",
+   "numCrimes": 1092,
+   "crimesRelative": 7540
+ },
+ {
+   "name": "Valdemarsviks kommun",
+   "numCrimes": 444,
+   "crimesRelative": 5739
+ },
+ {
+   "name": "Vallentuna kommun",
+   "numCrimes": 2756,
+   "crimesRelative": 8076
+ },
+ {
+   "name": "Vansbro kommun",
+   "numCrimes": 363,
+   "crimesRelative": 5333
+ },
+ {
+   "name": "Vara kommun",
+   "numCrimes": 1867,
+   "crimesRelative": 11636
+ },
+ {
+   "name": "Varbergs kommun",
+   "numCrimes": 5119,
+   "crimesRelative": 7842
+ },
+ {
+   "name": "Vaxholms kommun",
+   "numCrimes": 544,
+   "crimesRelative": 4581
+ },
+ {
+   "name": "Vellinge kommun",
+   "numCrimes": 2011,
+   "crimesRelative": 5452
+ },
+ {
+   "name": "Vetlanda kommun",
+   "numCrimes": 1663,
+   "crimesRelative": 6047
+ },
+ {
+   "name": "Vilhelmina kommun",
+   "numCrimes": 570,
+   "crimesRelative": 8704
+ },
+ {
+   "name": "Vimmerby kommun",
+   "numCrimes": 1070,
+   "crimesRelative": 6834
+ },
+ {
+   "name": "Vindelns kommun",
+   "numCrimes": 379,
+   "crimesRelative": 6919
+ },
+ {
+   "name": "Vingåkers kommun",
+   "numCrimes": 682,
+   "crimesRelative": 7451
+ },
+ {
+   "name": "Vårgårda kommun",
+   "numCrimes": 952,
+   "crimesRelative": 7996
+ },
+ {
+   "name": "Vänersborgs kommun",
+   "numCrimes": 4042,
+   "crimesRelative": 10204
+ },
+ {
+   "name": "Vännäs kommun",
+   "numCrimes": 470,
+   "crimesRelative": 5234
+ },
+ {
+   "name": "Värmdö kommun",
+   "numCrimes": 4009,
+   "crimesRelative": 8832
+ },
+ {
+   "name": "Värnamo kommun",
+   "numCrimes": 3028,
+   "crimesRelative": 8767
+ },
+ {
+   "name": "Västerviks kommun",
+   "numCrimes": 2813,
+   "crimesRelative": 7685
+ },
+ {
+   "name": "Västerås kommun",
+   "numCrimes": 23357,
+   "crimesRelative": 15013
+ },
+ {
+   "name": "Växjö kommun",
+   "numCrimes": 8864,
+   "crimesRelative": 9351
+ },
+ {
+   "name": "Ydre kommun",
+   "numCrimes": 142,
+   "crimesRelative": 3805
+ },
+ {
+   "name": "Ystads kommun",
+   "numCrimes": 2411,
+   "crimesRelative": 7799
+ },
+ {
+   "name": "Åmåls kommun",
+   "numCrimes": 1027,
+   "crimesRelative": 8256
+ },
+ {
+   "name": "Ånge kommun",
+   "numCrimes": 691,
+   "crimesRelative": 7456
+ },
+ {
+   "name": "Åre kommun",
+   "numCrimes": 925,
+   "crimesRelative": 7721
+ },
+ {
+   "name": "Årjängs kommun",
+   "numCrimes": 549,
+   "crimesRelative": 5481
+ },
+ {
+   "name": "Åsele kommun",
+   "numCrimes": 354,
+   "crimesRelative": 12656
+ },
+ {
+   "name": "Åstorps kommun",
+   "numCrimes": 1915,
+   "crimesRelative": 11948
+ },
+ {
+   "name": "Åtvidabergs kommun",
+   "numCrimes": 592,
+   "crimesRelative": 5187
+ },
+ {
+   "name": "Älmhults kommun",
+   "numCrimes": 1380,
+   "crimesRelative": 7709
+ },
+ {
+   "name": "Älvdalens kommun",
+   "numCrimes": 502,
+   "crimesRelative": 7137
+ },
+ {
+   "name": "Älvkarleby kommun",
+   "numCrimes": 902,
+   "crimesRelative": 9477
+ },
+ {
+   "name": "Älvsbyns kommun",
+   "numCrimes": 565,
+   "crimesRelative": 7026
+ },
+ {
+   "name": "Ängelholms kommun",
+   "numCrimes": 3522,
+   "crimesRelative": 8216
+ },
+ {
+   "name": "Öckerö kommun",
+   "numCrimes": 730,
+   "crimesRelative": 5638
+ },
+ {
+   "name": "Ödeshögs kommun",
+   "numCrimes": 389,
+   "crimesRelative": 7307
+ },
+ {
+   "name": "Örebro kommun",
+   "numCrimes": 22940,
+   "crimesRelative": 14657
+ },
+ {
+   "name": "Örkelljunga kommun",
+   "numCrimes": 1166,
+   "crimesRelative": 11181
+ },
+ {
+   "name": "Örnsköldsviks kommun",
+   "numCrimes": 5275,
+   "crimesRelative": 9443
+ },
+ {
+   "name": "Östersunds kommun",
+   "numCrimes": 8309,
+   "crimesRelative": 12985
+ },
+ {
+   "name": "Österåkers kommun",
+   "numCrimes": 3728,
+   "crimesRelative": 8003
+ },
+ {
+   "name": "Östhammars kommun",
+   "numCrimes": 1528,
+   "crimesRelative": 6879
+ },
+ {
+   "name": "Östra Göinge kommun",
+   "numCrimes": 1504,
+   "crimesRelative": 10029
+ },
+ {
+   "name": "Överkalix kommun",
+   "numCrimes": 296,
+   "crimesRelative": 8978
+ },
+ {
+   "name": "Övertorneå kommun",
+   "numCrimes": 310,
+   "crimesRelative": 7353
+ }
+]
