@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.8.3/jquery.csv.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
     <style>
-        #map {position: absolute; top: 0; left: 0; height: 60%; width: 100%;}
+        #map {position: absolute; top: 0; left: 0; height: 60%; width: 80%;}
     </style>
 </head>
 <body>
@@ -39,23 +37,41 @@
             //Add the polygon for kommun 0 to the m
             async function handleData() {
                 let brotts_data = await brotts_data_promise;
+                console.log(data.features)
+                //Lägg till index (bokstavsordning) i data.features[0].properties.index
+                let KnNamnLista = brotts_data.map((x)=>{return x.name.toLowerCase()});
+                console.log(KnNamnLista.indexOf("lilla edets kommun"));
+                console.log(KnNamnLista);
+                for (feature of data.features) {
+                    feature.properties.index = KnNamnLista.indexOf(feature.properties.KnNamn.toLowerCase() + " kommun");
+                    if (feature.properties.index == -1) {
+                        feature.properties.index = KnNamnLista.indexOf(feature.properties.KnNamn.toLowerCase() + "s kommun");
+                    }
+                    if (feature.properties.index == -1) {
+                        feature.properties.index = KnNamnLista.indexOf(feature.properties.KnNamn.toLowerCase());
+                    }
+                }
+                console.log(data.features.map((x) => {return x.properties.index + x.properties.KnNamn}));
 
                 function style(feature) {
                     let featureIndex = data.features.indexOf(feature);
+                    console.log(feature);
+                    if (feature.properties.index == -1) {return;}
 
-                    if (brotts_data[featureIndex].crimesRelative >= 8000) {
+                    if (brotts_data[feature.properties.index].crimesRelative >= 8000) {
                         return {color: "red"};
-                    } else {
+                    } else if (brotts_data[feature.properties.index].crimesRelative < 8000) {
+                        console.log()
                         return {color: "green"};
                     }
                 }
                 var layer = L.geoJson(data, {style: style,})
                 .bindPopup(function (layer) {
-                    return layer.feature.properties.KnNamn;
+                    console.log(layer);
+                    return "<p>"+layer.feature.properties.KnNamn+"</p><p>"+
+                        brotts_data[layer.feature.properties.index].crimesRelative+"</p>";
                 })
                 .addTo(map);
-
-                var marker = L.marker([51.5, -0.09]).addTo(map);
                 return;
 
             }
