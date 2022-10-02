@@ -5,89 +5,53 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
     <style>
-        #map {position: absolute; top: 0; left: 0; height: 60%; width: 80%;}
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        header h1 {
+            margin: 4vh;
+        }
+        nav {
+            margin: 2vh;
+            padding: 0.5vh;
+            border-radius: 0.5vh;
+            background-color: blanchedalmond;
+        }
+        nav ul li {
+            display: inline-block;
+            margin-right: 1.5vw;
+            background-color:blanchedalmond;
+        }
+        #map {
+            height: 60vh;
+            width: 100vw;
+            margin: 2vh;
+        }
     </style>
 </head>
 <body>
+    <header>
+    <h1>Trygghetsbarometern</h1>
+    <nav>
+        <ul>
+            <li>
+            <input t/>
+            </li>
+            <li>
+                Statistik v
+            </li>
+            <li>
+                Om Trygghetsbarometern
+            </li>
+            <li>
+                Logga in
+            </li>
+    </nav>
+    </header>
+
+    <div id="content">
     <div id = "map"></div>
-
-    <script>
-        const map = L.map('map').setView([61, 16], 5);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 19,
-            attribution: '© OpenStreetMap'
-        }).addTo(map);
-
-        let brotts_data = null;
-        const brotts_data_promise = fetch("anmalda_brott_json.json")
-            .then(response => {
-                return response.json();
-            })
-            .then(data => {
-                console.log(data);
-                brotts_data = data;
-                return(data);
-        });
-
-        const geojson_data = fetch("geojson_kommuner.json")
-        .then(response => {
-            return response.json();
-        })
-        .then(data => {
-            //Add the polygon for kommun 0 to the m
-            async function handleData() {
-                let brotts_data = await brotts_data_promise;
-                console.log(data.features)
-                //Lägg till index (bokstavsordning) i data.features[0].properties.index
-                let KnNamnLista = brotts_data.map((x)=>{return x.name.toLowerCase()});
-                console.log(KnNamnLista.indexOf("lilla edets kommun"));
-                console.log(KnNamnLista);
-                for (feature of data.features) {
-                    feature.properties.index = KnNamnLista.indexOf(feature.properties.KnNamn.toLowerCase() + " kommun");
-                    if (feature.properties.index == -1) {
-                        feature.properties.index = KnNamnLista.indexOf(feature.properties.KnNamn.toLowerCase() + "s kommun");
-                    }
-                    if (feature.properties.index == -1) {
-                        feature.properties.index = KnNamnLista.indexOf(feature.properties.KnNamn.toLowerCase());
-                    }
-                }
-                console.log(data.features.map((x) => {return x.properties.index + x.properties.KnNamn}));
-
-                function style(feature) {
-                    let featureIndex = data.features.indexOf(feature);
-                    console.log(feature);
-                    if (feature.properties.index == -1) {return;}
-
-                    if (brotts_data[feature.properties.index].crimesRelative >= 8000) {
-                        return {color: "red"};
-                    } else if (brotts_data[feature.properties.index].crimesRelative < 8000) {
-                        console.log()
-                        return {color: "green"};
-                    }
-                }
-                var layer = L.geoJson(data, {style: style,})
-                .bindPopup(function (layer) {
-                    console.log(layer);
-                    return "<p>"+layer.feature.properties.KnNamn+"</p><p>"+
-                        brotts_data[layer.feature.properties.index].crimesRelative+"</p>";
-                })
-                .addTo(map);
-                return;
-
-            }
-
-            handleData();
-
-            
-        });
-        // Create a style function that returns the style dict for a feature
-        // using a getColor function that takes in kommunnummer from and gives
-        // color from data of that kommunnummer
-
-        
-
-        
-
-    </script>
+    </div>
+    <script type="text/javascript" src="map_loader.js"></script>
 </body>
 </html>
